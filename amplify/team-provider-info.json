@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aquatechreact-dev-204709-authRole",
+      "UnauthRoleArn": "arn:aws:iam::105642242714:role/amplify-aquatechreact-dev-204709-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::105642242714:role/amplify-aquatechreact-dev-204709-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-aquatechreact-dev-204709-deployment",
+      "UnauthRoleName": "amplify-aquatechreact-dev-204709-unauthRole",
+      "StackName": "amplify-aquatechreact-dev-204709",
+      "StackId": "arn:aws:cloudformation:us-east-2:105642242714:stack/amplify-aquatechreact-dev-204709/f4ce0b80-9803-11eb-b482-020645972f8a",
+      "AmplifyAppId": "d3oukabcigjmt0"
+    },
+    "categories": {
+      "auth": {
+        "aquatechreact454f42b2": {}
+      }
+    }
+  }
+}

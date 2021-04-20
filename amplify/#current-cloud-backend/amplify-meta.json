@@ -1,0 +1,37 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aquatechreact-dev-204709-authRole",
+      "UnauthRoleArn": "arn:aws:iam::105642242714:role/amplify-aquatechreact-dev-204709-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::105642242714:role/amplify-aquatechreact-dev-204709-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-aquatechreact-dev-204709-deployment",
+      "UnauthRoleName": "amplify-aquatechreact-dev-204709-unauthRole",
+      "StackName": "amplify-aquatechreact-dev-204709",
+      "StackId": "arn:aws:cloudformation:us-east-2:105642242714:stack/amplify-aquatechreact-dev-204709/f4ce0b80-9803-11eb-b482-020645972f8a",
+      "AmplifyAppId": "d3oukabcigjmt0"
+    }
+  },
+  "auth": {
+    "aquatechreact454f42b2": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-aquatechreact-dev-204709-deployment/amplify-cfn-templates/auth/aquatechreact454f42b2-cloudformation-template.yml",
+        "logicalId": "authaquatechreact454f42b2"
+      },
+      "lastPushTimeStamp": "2021-04-08T00:56:17.444Z",
+      "output": {
+        "UserPoolId": "us-east-2_wdiyUB70Q",
+        "AppClientIDWeb": "4phvemg6vaig03djm5l2me1k2g",
+        "AppClientID": "6oe5kb47pjghb1k9dq4vi260i4",
+        "IdentityPoolId": "us-east-2:80e80e55-b550-41d5-858b-3ce1f2d65b6a",
+        "IdentityPoolName": "aquatechreact454f42b2_identitypool_454f42b2__dev",
+        "UserPoolName": "aquatechreact454f42b2_userpool_454f42b2"
+      },
+      "lastPushDirHash": "QVFDrLEz3VM3XK4xjq71Jhk5ukI="
+    }
+  }
+}
